@@ -1,0 +1,33 @@
+c++ ?
+progrmming language :-
+
+methodology :-
+c lanaguage is a procedural language POPS
+c++ is a object oriented language OOPS
+
+stdio
+iostream : header file
+
+i stream  o stream
+input stream output stream
+input stream
+output stream
+
+
+                                    IOS
+
+                     inputstream                output stream /class
+
+
+                                      iostream
+                                             
+
+printf /???? function
+scanf /???? function
+
+cout it is not a function it is a object / ref variable
+cout is an object of class ostream
+
+cin it is not a function it is a object / ref variable
+cin is an object istream class
+

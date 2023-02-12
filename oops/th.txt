@@ -1,0 +1,41 @@
+OOPS 4 concepts
+A: Encapsulation
+    class and object
+    data hiding
+    
+    constructor,destructors
+
+B: Inheritance
+
+C: Polymorphism
+    overloading and overriding
+D: Abstraction
+    abstract class and interface
+
+class : 
+def: class is a user defined data type,
+which holds its own data members and member functions,
+which can be accessed and used by creating an instance of that class.
+
+-> class is group of data members and member functions
+
+-> class is blueprint of object
+
+object :
+def: object is an instance of class
+object is an entity / identity of class
+
+fruit class apple object
+Vehicle class car object
+
+building --> school   student/teacher
+
+to create class in c++ we have class keyword
+
+
+
+
+
+
+
+
