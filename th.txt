@@ -31,3 +31,6 @@ cout is an object of class ostream
 cin it is not a function it is a object / ref variable
 cin is an object istream class
 
+
+oops :
+

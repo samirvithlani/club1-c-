@@ -2,6 +2,7 @@
 using namespace std;
 
 class Vehicle{    
+    int x;
     public:
     int wheels;
     int seats;
@@ -11,6 +12,8 @@ class Vehicle{
 
     void getVehData(){
 
+        cout<<"\n enter x";
+        cin>>x;
         cout<<"\n enter vehName :: ";
         cin>>vehName;
         cout<<"\n enter wheels :: ";
@@ -36,6 +39,7 @@ void Vehicle :: printVehData(){
     cout<<"\n seats - "<<seats;
     cout<<"\n speed - "<<speed;
     cout<<"\n fuel - "<<fuel;
+    cout<<"\n x - "<<x;
 }
 
 int main(){
