@@ -1,0 +1,30 @@
+inheritance :- 
+inheritance is the process by which one class acquires 
+the properties (methods and fields) of another. 
+With the use of inheritance the information is made manageable in a hierarchical order.
+child / sub class inherits the properties of parent / super class.
+parent class can not use porperty of child....
+
+1) Single Inheritance :-
+
+    one parent class one child   
+    A --> B
+
+2) Multilevel Inheritance :-
+    A -->B-->C
+3) Hierarchical Inheritance :-
+
+                                    X
+                               m        n
+                              p   q   r   s
+
+
+4) Multiple Inheritance :-
+
+    A -->b,c       a,b -->d
+
+5) Hybrid Inheritance :-
+
+    A -->B,C     B -->D,E    C -->F,G
+
+

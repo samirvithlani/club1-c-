@@ -34,3 +34,9 @@ cin is an object istream class
 
 oops :
 
+
+EMPLOYEE DATA -->
+name email salary
+add EMPLOYEE
+view employee
+login
