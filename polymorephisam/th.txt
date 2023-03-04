@@ -1,0 +1,94 @@
+polymorephisam : 
+polymorephisam  means mnore than one form of function
+
+2 type of polymorphism :
+1)compile time polymorphism / early binding / static binding
+
+    fucntion overloading
+
+    same name of function but different parameter
+
+    search(char pname)
+    search(char pname,int pprice)
+    search(char pname,int pprice,char color)
+
+    zomato
+    search(fname)
+    search(fname,area)
+    search(fname,area,rating)
+
+    order(starter)
+    order(starter,with instruction)
+    order(starter,with drink)
+
+    bank()
+    bank(with premium,with check)
+    bank(with premium,with check,with locker)
+
+
+2)run time polymorphism / late binding / dynamic binding
+    
+    function overriding
+
+    same name of function and same parameter of function developd in child class same as parenrt class..
+
+    void test()
+    {
+        cout<<"parent class test function"<<endl;
+    }
+
+    void test(){
+
+    }
+
+
+    function signtaure
+
+    retun type + function name + parameter
+
+    cgroad jb parent
+
+        void vadpav()
+        {
+            cout<<"vadpav"<<endl;
+        }
+
+    vijay corss jb child
+
+    void vadpav()
+        {
+            cout<<"vadpav"<<endl;
+        }
+
+
+jio -->vodphone
+
+TRAI/GOV
+{
+    call()
+}
+jio : public TRAI/GOV{
+
+    call()
+
+
+}
+vodaphone : public TRAI/GOV{
+
+
+    call()
+
+}
+
+HDFC BANK HDFC DEBIT
+
+SBI BANK ATM 
+hdfc hdfc  --> hdfcwithdraw()
+
+sbi sbiwitdraw()
+
+
+
+
+
+
