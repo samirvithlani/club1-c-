@@ -40,3 +40,20 @@ name email salary
 add EMPLOYEE
 view employee
 login
+
+friendfunction:
+shape friend function
+length  l
+width   w
+
+area
+
+
+
+
+
+
+
+
+
+
