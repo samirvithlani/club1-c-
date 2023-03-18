@@ -1,0 +1,12 @@
+getline
+length
+push_back
+pop_back
+front
+back
+insert
+at
+erase
+replcae
+substr
+compare
