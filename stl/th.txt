@@ -1,0 +1,40 @@
+stl:stl is c++ template library provide  common programming data structurs, and functions
+it is contains algorithms, containers, iterators, and function objects
+
+containers: containers are used to store data
+vector
+set
+map
+list
+deque
+stack
+
+algorithms: algorithms are used to perform operations on containers
+sort
+find
+copy
+count
+accumulate
+transform
+
+iterators: iterators are used to iterate over containers
+begin
+end
+
+function objects: function objects are used to perform operations on containers
+less
+greater
+equal_to
+logical_and
+logical_or
+logical_not
+
+
+vector: vector is used to store data in a sequential manner
+vector is a dynamic array : it can grow and shrink in size
+vector is a template class
+vector is a container
+vector is a sequence container : it stores data in a sequential manner
+vector is a contiguous container: it stores data in a contiguous manner
+contiguous manner: data is stored in a single block of memory
+vector is a random access container : it can be accessed using random access iterators
