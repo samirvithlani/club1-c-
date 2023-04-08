@@ -1,0 +1,17 @@
+cricket tournament
+
+teams create...2 
+
+1 team has 11 players
+5 bowlers 5 batsman 1 wicket keeper
+
+
+
+start match
+add score to batsman
+add wickets to bowler 10
+----------------
+
+result --> 1 team wins
+
+batting
